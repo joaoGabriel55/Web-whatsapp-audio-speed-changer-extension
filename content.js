@@ -41,7 +41,6 @@ const intervalChats = setInterval(() => {
                 })
             })
         })
-        // clearInterval(intervalChats)
     }
 }, 1000)
 
