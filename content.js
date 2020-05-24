@@ -1,3 +1,4 @@
+
 function changeSpeedBtn(speed) {
     const button = document.createElement("button")
     button.innerHTML = `x${speed}`
