@@ -9,7 +9,7 @@ function changeSpeedBtn(speed) {
 const intervalChats = setInterval(() => {
     const chats = document.querySelectorAll('._2wP_Y')
     if (chats) {
-        let speed = 1 //_1A7et
+        let speed = 1
         chats.forEach(chat => {
             chat.addEventListener("click", () => {
                 const audioComponents = document.querySelectorAll('.tFdoF')
